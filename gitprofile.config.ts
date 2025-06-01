@@ -60,7 +60,8 @@ const CONFIG = {
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: 'https://www.instagram.com/thee_chosen_one23?igsh=b2d1N29uc2JqYnYy&utm_source=qr',
+    instagram:
+      'https://www.instagram.com/thee_chosen_one23?igsh=b2d1N29uc2JqYnYy&utm_source=qr',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -77,8 +78,7 @@ const CONFIG = {
     email: 'vkel48123@gmail.com',
   },
   resume: {
-    fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'TypeScript',
@@ -115,7 +115,7 @@ const CONFIG = {
   ],
   certifications: [
     {
-     /* name: 'Lorem ipsum',
+      /* name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com',
